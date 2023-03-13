@@ -60,16 +60,15 @@ plausible:
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
 
-      name: GitHub
+      name: GitHub.      
       show: true
       href: https://github.com/wszmk
       icon: fab fa-github
-  - codepen:
-      name: Blog
+  - Blog:
+      name: Blog.
       show: true
       href: https://cnblogs.com/js-cn
       icon: fas fa-book-open
-  - stackoverflow:
 
 # Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
 #extra_html:
